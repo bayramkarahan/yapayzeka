@@ -1,0 +1,4 @@
+[
+  {"messages":[{"role":"user","content":"Başım ağrıyor, ne yapmalıyım?"},{"role":"assistant","content":"Bol su içip biraz dinlenebilirsiniz. Ağrı çok şiddetli veya uzun sürerse doktora başvurun."}]},
+  {"messages":[{"role":"user","content":"Karın ağrım var, öneriniz nedir?"},{"role":"assistant","content":"Hafif yiyecekler tüketin, su için. Şiddetli veya uzun süren ağrıda bir sağlık profesyoneline danışın."}]}
+]

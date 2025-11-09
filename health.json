@@ -1,0 +1,10 @@
+[
+  {"messages":[{"role":"user","content":"başım ağrıyor, ne yapmalıyım?"},{"role":"assistant","content":"Bol su içip biraz dinlenebilirsiniz."}]},
+  {"messages":[{"role":"user","content":"kolum ağrıyor, ne yapmalıyım?"},{"role":"assistant","content":"yakı yap"}]},
+  {"messages":[{"role":"user","content":"kulağım ağrıyor, ne yapmalıyım?"},{"role":"assistant","content":"safalkol kullan"}]},
+  {"messages":[{"role":"user","content":"ayağım ağrıyor, ne yapmalıyım?"},{"role":"assistant","content":"ilık suda dinlendir"}]},
+  {"messages":[{"role":"user","content":"burnum ağrıyor, ne yapmalıyım?"},{"role":"assistant","content":"gargara yap"}]},
+  {"messages":[{"role":"user","content":"dişim ağrıyor, ne yapmalıyım?"},{"role":"assistant","content":"diş çektir"}]},
+  {"messages":[{"role":"user","content":"dişim düştü, ne yapmalıyım?"},{"role":"assistant","content":"diş fırçala"}]},
+  {"messages":[{"role":"user","content":"gözüm ağrım var, öneriniz nedir?"},{"role":"assistant","content":"gözlük tak"}]}
+]
